@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace pry_LaboratorioDeProgramacion
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("¡Primer cambio en el código, subiéndo a GitHub!");
+
         }
     }
 }
